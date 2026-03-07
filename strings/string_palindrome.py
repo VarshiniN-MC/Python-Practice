@@ -1,3 +1,4 @@
+#To check if a string is palindrome or not
 def reverse():
     rev=""
     for i in str:
